@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "228480140780",
+    "project_id": "takamiya-point",
+    "storage_bucket": "takamiya-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228480140780:android:4dedfc0bf69c0718f5acc9",
+        "android_client_info": {
+          "package_name": "com.takamia.point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228480140780-mh1cedck29983qjgo6v8rv2hi1q4ou6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQ2ufGHtWX1vr_dQgM-EO4ULSutFWRbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228480140780-mh1cedck29983qjgo6v8rv2hi1q4ou6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228480140780-7gqsq8u73dr8139o3232hb8rg9qbs4i3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.takamia.point"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
